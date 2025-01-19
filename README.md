@@ -1,5 +1,5 @@
-# Mathematical-Model-of-Wound-Healing
-As part of my final year project, I developed a series of three progressively complex mathematical models to simulate the wound healing process in cell culture. The project lasted six months and was a blend of theoretical physics and computational biology. 
+# Mathematical-Model-of-Wound-Healing 💻👩‍🔬
+As part of my final year project, I developed a series of three progressively complex mathematical models to simulate the wound healing process in cell culture. The project lasted six months and was a blend of theoretical physics and computational biology🦠💻. 
 
 Understanding wound healing is an essential part of biomedical research which translates into better treatments for chronic or hard to heal wounds. In this work, the biological principles which govern wound healing are combined with mathematics to gain insights into cell behaviour during wound healing. The principal aim is to develop mathematical models that will simulate these behaviours. A series of models were constructed to investigate this process.
 
